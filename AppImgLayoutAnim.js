@@ -27,7 +27,7 @@ export default class App extends React.Component {
   };
 
   _onPress = () => {
-    // Animate the update
+    // // Animate the update
     // LayoutAnimation.easeInEaseOut();
     // this.setState({add: this.state.add * 2}, () => {
     //   this.setState({
